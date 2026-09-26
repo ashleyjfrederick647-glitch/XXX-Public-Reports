@@ -1,8 +1,5 @@
-# XXX Public Reports Feed
+# Public Reports Feed
 
-This repository contains the privacy-filtered client report feed displayed by
-the TS:Ashley666 website.
+This repository contains a privacy-filtered public report feed.
 
-Only records explicitly approved for website publication in Nora are included.
-Private phone numbers, legal names, full internal reasons, notes, and
-unapproved photos are excluded.
+Only records explicitly approved for publication are included. Private phone numbers, legal names, full internal reasons, notes, and unapproved photos are excluded.
